@@ -1,6 +1,3 @@
-version = '0.1'
-url = "https://github.com/thomie/trac-ghccaptcha"
-
 import random
 
 from trac.core import Component, implements
